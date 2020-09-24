@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<tv generator-info-name="psuedotv-plex">
+    <channel id="1">
+        <display-name lang="en">4X4</display-name>
+        <icon src="https://image.tmdb.org/t/p/w1280/wSbDA4bh5hIcLUakRVJUJfs5dWi.jpg"/>
+    </channel>
+    <channel id="2">
+        <display-name lang="en">2 Guns</display-name>
+        <icon src="https://image.tmdb.org/t/p/w1280/ukmKKTLshlVPf1462mTS4komw7k.jpg"/>
+    </channel>
+    <channel id="3">
+        <display-name lang="en">Deep Blue Sea</display-name>
+        <icon src="https://image.tmdb.org/t/p/w1280/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg"/>
+    </channel>
+    <programme start="20200924170000 +0000" stop="20200924182841 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200924182841 +0000" stop="20200924195723 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200924195723 +0000" stop="20200924212604 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200924212604 +0000" stop="20200924225446 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200924225446 +0000" stop="20200925002328 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200925002328 +0000" stop="20200925015209 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200925015209 +0000" stop="20200925032051 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200925032051 +0000" stop="20200925044933 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200925044933 +0000" stop="20200925061814 +0000" channel="1">
+        <title lang="en">4x4</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/6711/thumb/1599269668?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Una lujosa 4x4 está estacionada en la vereda en un barrio como tantos de Buenos Aires. Un chico entra para robar. Pero cuando quiere salir, no puede. Las puertas no responden, los controles tampoco, la 4x4 es como un búnker blindado. La situación es desesperante: está encerrado. Alguien desde afuera tiene el control de la 4x4, y parece tener un plan.</desc>
+    </programme>
+    <programme start="20200924170000 +0000" stop="20200924184915 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924184915 +0000" stop="20200924203830 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924203830 +0000" stop="20200924222746 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924222746 +0000" stop="20200925001701 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925001701 +0000" stop="20200925020616 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925020616 +0000" stop="20200925035532 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925035532 +0000" stop="20200925054447 +0000" channel="2">
+        <title lang="en">2 Guns</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/4533/thumb/1596746589?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924170000 +0000" stop="20200924184500 +0000" channel="3">
+        <title lang="en">Deep Blue Sea</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2673/thumb/1598804361?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Utilizando tiburones Mako, una de las máquinas de matar más rápidas y perfectas de la naturaleza, la doctora McAlester (Saffron Burrows) espera encontrar la clave de la regeneración de los tejidos del cerebro humano. Pero para alcanzar su meta ha violado los códigos éticos, modificando el ADN de los tiburones, haciendo que sean más inteligentes y más rápidos, convirtiéndolos de depredadores peligrosos en monstruos depredadores que pondrán en peligro a todo el equipo de trabajo...</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924184500 +0000" stop="20200924201859 +0000" channel="3">
+        <title lang="en">Deep Blue Sea 2</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2671/thumb/1600563233?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">La Doctora Misty Calhoun, conservacionista de tiburones, es invitada para asesorar un proyecto secreto organizado por el farmacéutico millonario Carl Durant. Calhoun se sorprende al descubrir que la compañía utiliza a los agresivos e impredecibles tiburones toro para los tests.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924201859 +0000" stop="20200924215904 +0000" channel="3">
+        <title lang="en">Deep Blue Sea 3</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2668/thumb/1598804623?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">La doctora Emma Collins y su equipo están pasando su tercer verano en la isla Little Happy estudiando el efecto del cambio climático en el gran tiburón blanco. Junto a los dos últimos habitantes del antiguo pueblo pesquero, su vida se ve alterada cuando un equipo "científico" liderado por su exnovio y marino biológico Richard aparece buscando tres tiburones toro que son algo más de lo que aparentan en un principio.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924215904 +0000" stop="20200924234405 +0000" channel="3">
+        <title lang="en">Deep Blue Sea</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2673/thumb/1598804361?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Utilizando tiburones Mako, una de las máquinas de matar más rápidas y perfectas de la naturaleza, la doctora McAlester (Saffron Burrows) espera encontrar la clave de la regeneración de los tejidos del cerebro humano. Pero para alcanzar su meta ha violado los códigos éticos, modificando el ADN de los tiburones, haciendo que sean más inteligentes y más rápidos, convirtiéndolos de depredadores peligrosos en monstruos depredadores que pondrán en peligro a todo el equipo de trabajo...</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200924234405 +0000" stop="20200925011804 +0000" channel="3">
+        <title lang="en">Deep Blue Sea 2</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2671/thumb/1600563233?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">La Doctora Misty Calhoun, conservacionista de tiburones, es invitada para asesorar un proyecto secreto organizado por el farmacéutico millonario Carl Durant. Calhoun se sorprende al descubrir que la compañía utiliza a los agresivos e impredecibles tiburones toro para los tests.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925011804 +0000" stop="20200925025809 +0000" channel="3">
+        <title lang="en">Deep Blue Sea 3</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2668/thumb/1598804623?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">La doctora Emma Collins y su equipo están pasando su tercer verano en la isla Little Happy estudiando el efecto del cambio climático en el gran tiburón blanco. Junto a los dos últimos habitantes del antiguo pueblo pesquero, su vida se ve alterada cuando un equipo "científico" liderado por su exnovio y marino biológico Richard aparece buscando tres tiburones toro que son algo más de lo que aparentan en un principio.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925025809 +0000" stop="20200925044309 +0000" channel="3">
+        <title lang="en">Deep Blue Sea</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2673/thumb/1598804361?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">Utilizando tiburones Mako, una de las máquinas de matar más rápidas y perfectas de la naturaleza, la doctora McAlester (Saffron Burrows) espera encontrar la clave de la regeneración de los tejidos del cerebro humano. Pero para alcanzar su meta ha violado los códigos éticos, modificando el ADN de los tiburones, haciendo que sean más inteligentes y más rápidos, convirtiéndolos de depredadores peligrosos en monstruos depredadores que pondrán en peligro a todo el equipo de trabajo...</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+    <programme start="20200925044309 +0000" stop="20200925061709 +0000" channel="3">
+        <title lang="en">Deep Blue Sea 2</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-146.badb8f82ec8549dbb19b9de8b33fa116.plex.direct:32400/library/metadata/2671/thumb/1600563233?X-Plex-Token=-DY_B8miWyzTD3_Dx9TJ"/>
+        <desc lang="en">La Doctora Misty Calhoun, conservacionista de tiburones, es invitada para asesorar un proyecto secreto organizado por el farmacéutico millonario Carl Durant. Calhoun se sorprende al descubrir que la compañía utiliza a los agresivos e impredecibles tiburones toro para los tests.</desc>
+        <rating system="MPAA">
+            <value>R</value>
+        </rating>
+    </programme>
+</tv>
